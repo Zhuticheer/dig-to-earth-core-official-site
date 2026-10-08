@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuticheer.github.io/dig-to-earth-core-official-site/sitemap.xml
