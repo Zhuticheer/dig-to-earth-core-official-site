@@ -18,4 +18,5 @@ https://zhuticheer.github.io/dig-to-earth-core-official-site/
 | shot-4.webp | shot-4.webp | 720×1600 | 151576 |
 | gameplay.mp4 | gameplay.mp4 | 视频 | 2595075 |
 | video-poster.webp | shot-1.webp | 720×1600 | 228532 |
+| qr-1.png | taptap-qr.png | 512×512 | 12685 |
 | gold.webp | gold.webp | 256×62 | 2724 |
